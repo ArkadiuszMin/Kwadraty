@@ -43,6 +43,9 @@ function transformacja(event){
         //let kolor = 255
         let promien = 51
 
+
+
+        
         event.target.style.backgroundColor = "rgb(" + kolor1 + "," + kolor2 + "," + kolor3 +")";
         event.target.style.borderRadius = promien + "px";
 
